@@ -1,0 +1,10 @@
+Amazon Rekognition is a cloud-based machine learning service 
+provided by Amazon Web Services (AWS) that makes it easy to add image and video analysis to your applications. 
+It uses advanced machine learning algorithms to identify objects, people, text, scenes, and activities within images and videos.
+
+Rekognition can be used for a wide range of applications such as image and video analysis, facial recognition, celebrity recognition, object detection
+and tracking, text detection, and scene detection. It can also be used for video and image moderation, 
+which means detecting inappropriate or harmful content in videos and images.
+Amazon Rekognition is available as a fully-managed service, which means that you don't need to worry about infrastructure, scaling, or maintenance.
+You simply upload your images or videos to the service, and it provides you with detailed analysis and metadata about them. 
+It also integrates with other AWS services like Amazon S3 and Amazon Kinesis, making it easy to build scalable, end-to-end solutions.
